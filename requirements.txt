@@ -1,0 +1,12 @@
+werkzeug
+itsdangerous
+wtforms
+flask
+flask-sqlalchemy
+flask-wtf
+flask-mail
+flask-bootstrap
+flask-moment
+flask-login
+markdown
+bleach
