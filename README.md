@@ -1,8 +1,9 @@
+###### skoshi
+![](https://github.com/is-leeroy-jenkins/Skoshi/blob/main/resources/skoshi_project.png)
 
 
-# 🎨 Skoshi
 
-**Skoshi** is a clean, minimalist Flask-based portfolio application designed to showcase projects, skills, and professional identity with clarity and restraint.
+A minimalist Flask-based portfolio application designed to showcase projects, skills, and professional identity with clarity and restraint.
 It emphasizes **simplicity, readability, and classical web fundamentals**—HTML, CSS, and Python—without unnecessary framework bloat.
 
 Skoshi is intentionally small (“skoshi”) in footprint, but deliberate in design.
